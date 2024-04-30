@@ -2,7 +2,7 @@
   "test1": {
       "jiraId": "101",
       "testName": "Login with correct data ",
-      "username": "oliwiakosz",
+      "username": "oliwiaakosz",
       "password": "12345678",
       "correctData": "Y"
   },
