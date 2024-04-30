@@ -1,0 +1,23 @@
+{
+  "test1": {
+      "jiraId": "101",
+      "testName": "Login with correct data ",
+      "username": "oliwiakosz",
+      "password": "12345678",
+      "correctData": "Y"
+  },
+    "test2": {
+      "jiraId": "102",
+      "testName": "Login with incorrect data ",
+      "username": "Invalid Email",
+      "password": "Invalid Password",
+      "correctData": "N"
+  },
+     "test3": {
+       "jiraId": "103",
+       "testName": "Login with empty data ",
+      "username": " ",
+      "password": "",
+       "correctData": "N"
+  }
+}
